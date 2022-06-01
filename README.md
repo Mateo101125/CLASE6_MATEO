@@ -11,4 +11,5 @@
 - PROCESADOR AMD Ryzen 3 4300U with Radeon Graphics 2.70 GHz
 - RAM 4,00 GB (3,36 GB utilizable)
 - Sistema operativo de 64 bits, procesador x64
-
+## CARACTERISTICAS DEL PROGRAMA
+- Git 2.36.1
